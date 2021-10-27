@@ -1,0 +1,8 @@
+# g) Faça o repositório ignorar todos os arquivos que terminam em .jar
+*.jar
+
+# h) Faça o repositório ignorar todos os arquivos que terminam em .xml
+*.xml
+
+# i) Faça o repositório ignorar todos os arquivos que estão dentro da pasta node_modules
+/node_modules
